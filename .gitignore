@@ -1,0 +1,8 @@
+# 自社基準など社内情報はコミットしない（記入例のみ残す）
+company/*
+!company/standards.example.md
+
+# 審査対象の実際の原稿・出力
+private/
+*.docx
+!examples/*.docx
