@@ -64,7 +64,7 @@ ad-review-agent/
 ### Claude Code で使う
 
 ```bash
-git clone https://github.com/hiroshi-ship-it/ad-review-agent.git ~/.claude/skills/ad-review
+git clone https://github.com/hiroshi-ship-it/ad-review-agent.git ~/.claude/skills/ad-review-agent
 ```
 
 ### 自社基準を使う
