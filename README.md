@@ -21,7 +21,7 @@
 
 ## デモ
 
-【デモ動画のリンク】
+▶ [デモ動画（YouTube・約2分）](https://youtu.be/H3NpQpD_gGE)
 
 `samples/` の架空広告を審査した結果の例が `examples/` にあります。
 
